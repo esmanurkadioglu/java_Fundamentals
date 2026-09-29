@@ -26,6 +26,7 @@ public class GradeBookWithLoops {
         int gradeCounter;
         int grade;
         int average;
+
         total = 0;
         gradeCounter = 1;
 
