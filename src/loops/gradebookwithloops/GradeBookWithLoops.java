@@ -1,7 +1,9 @@
+package loops.gradebookwithloops;
+
 import java.util.Scanner; // program uses class Scanner
 
 public class GradeBookWithLoops {
-    private String courseName; // name of course this GradeBookWithLoops represents
+    private String courseName; // name of course this loops.gradebookwithloops.GradeBookWithLoops represents
 
     // constructor initializes courseName
     public GradeBookWithLoops(String name) {

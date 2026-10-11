@@ -1,3 +1,5 @@
+package loops.analysis;
+
 import java.util.Scanner;
 
 public class Analysis {

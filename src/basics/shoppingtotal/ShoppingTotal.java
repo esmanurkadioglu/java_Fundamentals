@@ -1,3 +1,5 @@
+package basics.shoppingtotal;
+
 import java.util.Scanner;
 
 public class ShoppingTotal {

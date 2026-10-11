@@ -1,3 +1,5 @@
+package basics.agecalculator;
+
 import java.util.Scanner;
 
 public class AgeCalculator {

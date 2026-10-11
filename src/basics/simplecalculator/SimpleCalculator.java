@@ -1,3 +1,5 @@
+package basics.simplecalculator;
+
 import java.util.Scanner;
 
 public class SimpleCalculator {

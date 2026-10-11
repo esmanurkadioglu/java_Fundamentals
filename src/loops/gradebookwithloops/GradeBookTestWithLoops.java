@@ -1,3 +1,5 @@
+package loops.gradebookwithloops;
+
 public class GradeBookTestWithLoops {
     public static void main(String[] args) {
 

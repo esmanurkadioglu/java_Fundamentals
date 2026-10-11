@@ -1,3 +1,5 @@
+package loops.gradebooksentinel;
+
 import java.util.Scanner;
 
 public class GradeBookSentinel {

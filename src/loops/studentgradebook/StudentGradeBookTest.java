@@ -1,3 +1,5 @@
+package loops.studentgradebook;
+
 import java.util.Scanner;
 
 public class StudentGradeBookTest {

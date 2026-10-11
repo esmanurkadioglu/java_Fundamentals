@@ -1,4 +1,4 @@
-// Create GradeBook object and pass a String to
+package basics.gradebook;// Create basics.gradebook.GradeBook object and pass a String to
 // its displayMessage method.
 import java.util.Scanner; // program uses Scanner
 
@@ -8,7 +8,7 @@ public class GradeBookTest {
         // create Scanner to obtain input from command window
         Scanner input = new Scanner(System.in);
 
-        // create a GradeBook object and assign it to myGradeBook
+        // create a basics.gradebook.GradeBook object and assign it to myGradeBook
         GradeBook myGradeBook = new GradeBook();
 
         // prompt for and input course name
@@ -19,4 +19,4 @@ public class GradeBookTest {
         // and pass nameOfCourse as an argument
         myGradeBook.displayMessage(nameOfCourse);
     } // end main
-} // end class GradeBookTest
+} // end class basics.gradebook.GradeBookTest
